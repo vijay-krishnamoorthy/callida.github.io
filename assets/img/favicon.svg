@@ -1,0 +1,134 @@
+<svg class="logo" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70px" height="102px" viewBox="0 0 70.9 102.7" style="" xml:space="preserve">
+<style>
+.callida-logo
+{
+fill:none;
+stroke: #fff;
+stroke-width: 4;
+stroke-miterlimit: 10;
+position: absolute;
+}
+.path-0{
+stroke-dasharray:241 243;
+stroke-dashoffset:242;
+animation:draw-0 8000ms ease-in 1110ms infinite,draw-0R 8000ms ease-in 0ms infinite;
+}
+.path-1{
+stroke-dasharray:145 147;
+stroke-dashoffset:146;
+animation:draw-1 8000ms ease-in 1110ms infinite,draw-1R 8000ms ease-in 0ms infinite;
+}
+.path-2{
+stroke-dasharray:29 31;
+stroke-dashoffset:30;
+animation:draw-2 8000ms ease-in 1110ms infinite,draw-2R 8000ms ease-in 0ms infinite;
+}
+.path-3{
+stroke-dasharray:29 31;
+stroke-dashoffset:30;
+animation:draw-3 8000ms ease-in 1110ms infinite,draw-3R 8000ms ease-in 0ms infinite;
+}
+.path-4{
+stroke-dasharray:38 40;
+stroke-dashoffset:39;
+animation:draw-4 8000ms ease-in 1110ms infinite,draw-4R 8000ms ease-in 0ms infinite;
+}
+.path-5{
+stroke-dasharray:38 40;
+stroke-dashoffset:39;
+animation:draw-5 8000ms ease-in 1110ms infinite,draw-5R 8000ms ease-in 0ms infinite;
+}
+.path-6{
+stroke-dasharray:154 156;
+stroke-dashoffset:155;
+animation:draw-6 8000ms ease-in 1110ms infinite,draw-6R 8000ms ease-in 0ms infinite;
+}
+@keyframes draw{
+100%{stroke-dashoffset:0;}
+}
+@keyframes fade{
+0%{stroke-opacity:1;}
+95.55555555555556%{stroke-opacity:1;}
+100%{stroke-opacity:0;}
+}
+@keyframes draw-0{
+17.77777777777778%{stroke-dashoffset: 242}
+84%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 0;}
+}
+@keyframes draw-0R{
+17.77777777777778%{stroke-dashoffset: 0}
+84%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 242;}
+}
+@keyframes draw-1{
+17.85185185185185%{
+stroke-dashoffset: 146}
+84.07407407407408%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 0;}
+}
+@keyframes draw-1R{
+17.85185185185185%{
+stroke-dashoffset: 0}
+84.07407407407408%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 146;}
+}
+@keyframes draw-2{
+17.925925925925927%{stroke-dashoffset: 30}
+84.14814814814815%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 0;}
+}
+@keyframes draw-2R{
+17.925925925925927%{stroke-dashoffset: 0}
+84.14814814814815%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 30;}
+}
+@keyframes draw-3{
+18%{stroke-dashoffset: 30}
+84.22222222222221%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 0;}
+}
+@keyframes draw-3R{
+18%{stroke-dashoffset: 0}
+84.22222222222221%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 30;}
+}
+@keyframes draw-4{
+18.074074074074076%{stroke-dashoffset: 39}
+84.2962962962963%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 0;}
+}
+@keyframes draw-4R{
+18.074074074074076%{stroke-dashoffset: 0}
+84.2962962962963%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 39;}
+}
+@keyframes draw-5{
+18.148148148148145%{stroke-dashoffset: 39}
+84.37037037037037%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 0;}
+}
+@keyframes draw-5R{
+18.148148148148145%{stroke-dashoffset: 0}
+84.37037037037037%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 39;}
+}
+@keyframes draw-6{
+18.22222222222222%{stroke-dashoffset: 155}
+84.44444444444444%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 0;}
+}
+@keyframes draw-6R{
+18.22222222222222%{stroke-dashoffset: 0}
+84.44444444444444%{ stroke-dashoffset: 0;}
+100%{ stroke-dashoffset: 155;}
+}
+</style>
+<path class="callida-logo path-0" d="M68.5,73.7v26.6H24.6c-12.7,0-22.7-9.9-22.7-22.6V24.9c0-12.7,10-23,22.7-23H70"></path>
+<path class="callida-logo path-1" d="M55.3,15H24.7c-5.3,0-9.6,4.3-9.6,9.6v52.7c0,5.3,4.3,9.6,9.6,9.6h30.9"></path>
+<path class="callida-logo path-2" d="M8.4,8.7L28.3,28.6"></path>
+<path class="callida-logo path-3" d="M8.4,93.5L28.3,73.7"></path>
+<path class="callida-logo path-4" d="M68.5,73.7L55.3,86.9L68.5,100.2"></path>
+<path class="callida-logo path-5" d="M68.5,1.9L55.3,15.1L68.5,28.3"></path>
+<path class="callida-logo path-6" d="M68.5,1.9v26.4H28.3v45.4H70"></path>
+</svg>
